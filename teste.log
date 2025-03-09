@@ -1,0 +1,26 @@
+24/09/2023 14:56:16 :: Function ProNameComp Started.
+24/09/2023 14:56:17 :: Occurance of 'PRO' found at : 27. Needs further verification.
+24/09/2023 14:56:17 :: Occurance of 'PRO' found at : 27 is NOT single word. Check for 'processor'.
+24/09/2023 14:56:17 :: Occurance of 'PRO' found at : 27 is part of PROCESSOR.Discard and check in remaining string.
+24/09/2023 14:56:17 :: Updated processor name : AMD Ryzen 9 7900X 12-Core              
+24/09/2023 14:56:17 :: Occurance of 'PRO' NOT found.Proceed with installation.
+24/09/2023 14:56:17 :: Installation can CONTINUE. Processor : AMD Ryzen 9 7900X 12-Core               Manufacturer : Gigabyte Technology Co., Ltd.
+24/09/2023 14:56:17 :: Hence disallow installation of AMDDynamicLocalModeService.
+24/09/2023 14:56:17 :: Function ProNameComp Ended.
+24/09/2023 14:56:18 :: Function TaskSchdlr - Querying
+24/09/2023 14:56:18 :: Function TaskSchdlr - Querying
+24/09/2023 14:56:18 :: Function TaskSchdlr - Querying
+24/09/2023 14:56:18 :: Function TaskSchdlr - Querying
+24/09/2023 14:56:18 :: Function TaskSchdlr - Querying
+24/09/2023 14:56:18 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+24/09/2023 14:56:19 :: Function ReadRegistryKey started.
+24/09/2023 14:56:19 :: Function ReadRegistryKey KeyValue is  NOEXECUTE=OPTIN  FVEBOOT=2674688  NOVGA
+24/09/2023 14:56:19 :: Function ReadRegistryKey Ended.
+24/09/2023 14:56:19 :: NUMPROC value from reg read  :  NOEXECUTE=OPTIN  FVEBOOT=2674688  NOVGA
+24/09/2023 14:56:19 :: RunBcdedit : LCM is read to be in OFF state.Directly install the update.
+24/09/2023 14:56:20 :: PiR_Install value updated : 256
+24/09/2023 14:56:20 :: SR_Install value updated : 256
+24/09/2023 14:56:20 :: Setup.exe - 5.12 cached as platform is not PCO or PiR.But Mattisse
+24/09/2023 14:56:20 :: QML Source: C:\AMD\RyzenMasterExtract\MSIFiles\Qt_Dependancies\Setup.exe
+24/09/2023 14:56:20 :: Destination: C:\Program Files\AMD\RyzenMaster\bin\
+24/09/2023 14:56:20 :: Function Delete_QTExtraction. Remove RyzenMasterExtract folder completed.
